@@ -48,4 +48,4 @@ SQL  • Power Query • Power BI (DAX) • Excel
 - `images/` – screenshots
 
  Contact
-[LinkedIn](https://www.linkedin.com/in/haripriyakt) • haripriyakt33@gmail.com
+[LinkedIn](https://www.linkedin.com/in/haripriyakt) • haripriyakt@gmail.com
