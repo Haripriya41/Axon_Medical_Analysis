@@ -39,7 +39,8 @@ SQL  • Power Query • Power BI (DAX) • Excel
 - Set up a follow-up reminder process to improve patient retention
 
  Dashboard Preview
-![Axon Dashboard](images/axon-powerbi.png)
+<img width="1230" height="793" alt="AXON" src="https://github.com/user-attachments/assets/e448ffc9-45d7-44bb-8d88-f805bab890c6" />
+<img width="1575" height="845" alt="AXON twbx" src="https://github.com/user-attachments/assets/19ceeb6c-c86d-4b85-a253-644f7a372715" />
 
  Repository Contents
 - `sql/` – analysis queries
